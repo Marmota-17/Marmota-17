@@ -53,7 +53,8 @@ Looking for someone committed to growth, learning, and delivering real value to 
 * ✉️ [cesar\_cfbb@hotmail.com](mailto:cesar_cfbb@hotmail.com)
 * 💼 [LinkedIn](https://www.linkedin.com/in/tu-perfil)
 * 🌐 Portfolio (under construction): [tu-usuario.github.io](https://tu-usuario.github.io)
-
+* 
+---
 
  <p align="center">
   <img src="banner.png" alt="Banner de César" width="800"/>
