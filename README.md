@@ -4,7 +4,7 @@
 
 ## 🇬🇧 English
 
-**English Junior Software Developer & Systems Analysis Student.** | Specialized in Web/Desktop Development and Technological Solutions
+**Junior Software Developer & Systems Analysis Student.** | Specialized in Web/Desktop Development and Technological Solutions
 
 📌 Aspiring software developer with hands-on experience in **C#**, **.NET Framework**, **SQL Server**, **HTML**, **CSS**, and **JavaScript**.
 Passionate about building functional projects, automating processes, and learning within communities.
