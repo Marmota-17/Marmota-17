@@ -1,7 +1,10 @@
+ <p align="center">
+  <img src="banner2.png" alt="Banner de César" width="800"/>
+</p>
 
 ## 🇬🇧 English
 
-**Student of Programming and Systems Analysis** | Specialized in Web/Desktop Development and Technological Solutions
+**English Junior Software Developer & Systems Analysis Student.** | Specialized in Web/Desktop Development and Technological Solutions
 
 📌 Aspiring software developer with hands-on experience in **C#**, **.NET Framework**, **SQL Server**, **HTML**, **CSS**, and **JavaScript**.
 Passionate about building functional projects, automating processes, and learning within communities.
