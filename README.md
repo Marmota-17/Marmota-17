@@ -1,72 +1,79 @@
 <p align="center">
-  <img src="https://github.com/tu-usuario/tu-usuario/raw/main/banner.png" alt="Banner" width="800"/>
+  <img src="logo.png" alt="Logo de Marmota" width="120"/>
 </p>
 
-<h1 align="center">👋 ¡Hola, soy César!</h1>
-<p align="center">
-  Inspector muestrero de día, desarrollador de C#/.NET de noche.
-</p>
+<h1 align="center">👋 ¡Hola! Soy César</h1>
 
 <p align="center">
-  🔭 Actualmente aprendiendo y creando proyectos con:
-  <code>C#</code>, <code>.NET Framework</code>, <code>SQL Server</code>, <code>HTML</code>, <code>CSS</code> y <code>JavaScript</code>.
-</p>
-
-<p align="center">
-  🌱 Trabajando en mi portafolio con proyectos de dificultad creciente para el mercado remoto y chileno.
-</p>
-
-<p align="center">
-  📫 Contáctame: <a href="mailto:tu.email@ejemplo.cl">tu.email@ejemplo.cl</a> • 
-  <a href="https://www.linkedin.com/in/tu-perfil" target="_blank">LinkedIn</a>
+  📌 Desarrollador en formación con experiencia práctica en <strong>C#</strong>, <strong>.NET Framework</strong>, <strong>SQL Server</strong>, <strong>HTML</strong>, <strong>CSS</strong> y <strong>JavaScript</strong>.
+  <br>
+  Apasionado por construir proyectos funcionales, automatizar procesos y aprender en comunidad.
 </p>
 
 ---
 
-## 🚀 Proyectos destacados
+## 🧭 Acerca de mí
 
-| Proyecto                   | Tech Stack                              | Link                                       |
-| -------------------------- | ---------------------------------------- | ------------------------------------------ |
-| **Gestor de Stickers**     | C#, .NET, SQL Server, HTML/CSS, JS       | [Repo](https://github.com/tu-usuario/stickers) |
-| **Portafolio Web**         | HTML, CSS, JavaScript                   | [Demo](https://tu-usuario.github.io/portafolio) |
-| **Content Automator Bot**  | Python, GitHub Actions                  | [Repo](https://github.com/tu-usuario/bot-automator) |
+- 💻 Actualmente estudio Análisis de Sistemas y desarrollo proyectos personales para mejorar mis habilidades técnicas.
+- 📊 Trabajo como Inspector Muestrero, lo que me ha desarrollado habilidades de precisión, responsabilidad y trabajo bajo presión.
+- 🚀 Estoy en transición hacia el desarrollo de software, enfocado en consolidar un portafolio que refleje mi crecimiento profesional.
+- ⚙️ Me estoy introduciendo en el mundo de la automatización con herramientas como **n8n** y **Make**, para optimizar flujos y tareas repetitivas.
+- 🎯 Mi objetivo es crecer como programador y adaptarme al entorno tecnológico actual de forma constante y estratégica.
 
 ---
 
-## 🛠️ Habilidades y herramientas
+## 🧪 Tecnologías y herramientas
 
 <p align="center">
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white"/>
-  <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?logo=.NET&logoColor=white"/>
+  <img alt=".NET" src="https://img.shields.io/badge/.NET_Framework-512BD4?logo=.NET&logoColor=white"/>
   <img alt="SQL Server" src="https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white"/>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
+  <img alt="n8n" src="https://img.shields.io/badge/n8n-AE8CFF?logo=n8n&logoColor=white"/>
+  <img alt="Make" src="https://img.shields.io/badge/Make-A2A2F0?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB2aWV3Qm94P...", title="Make (Integromat)"/>
 </p>
+---
+<!--
+## 🧩 Proyectos destacados
+
+| Proyecto                   | Tecnologías                            | Enlace                                      |
+|---------------------------|-----------------------------------------|---------------------------------------------|
+| **Gestor de Stickers**    | C#, .NET, SQL Server, HTML/CSS, JS      | [Ver repositorio](https://github.com/tu-usuario/stickers) |
+| **Portafolio Personal**   | HTML, CSS, JavaScript                   | [Ver demo](https://tu-usuario.github.io/portafolio) |
+| **Bot Automatizador**     | Python, GitHub Actions, Make/n8n        | [Ver repositorio](https://github.com/tu-usuario/bot-automator) |
+---
+---
+
+## 🌱 Lo que estoy aprendiendo ahora
+
+- Fundamentos sólidos en programación orientada a objetos
+- Consultas avanzadas en SQL y diseño de bases de datos
+- Patrones de diseño en desarrollo web
+- Automatización de tareas con **n8n**, **Make** y **GitHub Actions**
+- Mejores prácticas de control de versiones con Git
 
 ---
 
-## 📈 Estadísticas de GitHub
+## 📫 Contacto
+
+¿Buscas alguien comprometido con crecer, aprender y aportar valor real en proyectos?
+
+- ✉️ cesar_cfbb@hotmail.com 
+- 💼 [LinkedIn]([https://www.linkedin.com/in/tu-perfil](https://www.linkedin.com/in/cesar-fernando-bustos/))  
+- 🌐 Portafolio (en construcción): [tu-usuario.github.io](https://tu-usuario.github.io)
+
+---
 
 <p align="center">
-  <img height="140" src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=dark"/>
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=dark" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=dark" height="140"/>
 </p>
 
----
-
-## ✨ Me gusta
-
-- ☕ Un buen café mientras codifico
-- 🎮 Juegos retro en mis ratos libres
-- 📚 Lectura de blogs de programación y auto‑mejora
-- 🎨 Stickers y llaveros hechos a mano
-
----
-
 <p align="center">
-  <a href="https://github.com/tu-usuario">
-    <img src="https://komarev.com/ghpvc/?username=tu-usuario&color=blue" alt="Profile views"/>
+  <a href="https://komarev.com/ghpvc/?username=tu-usuario">
+    <img src="https://komarev.com/ghpvc/?username=tu-usuario&color=blue" alt="Visitas al perfil"/>
   </a>
 </p>
 
