@@ -35,15 +35,6 @@
   <img alt="Make" src="https://img.shields.io/badge/Make-A2A2F0?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB2aWV3Qm94P...", title="Make (Integromat)"/>
 </p>
 ---
-<!--
-## 🧩 Proyectos destacados
-
-| Proyecto                   | Tecnologías                            | Enlace                                      |
-|---------------------------|-----------------------------------------|---------------------------------------------|
-| **Gestor de Stickers**    | C#, .NET, SQL Server, HTML/CSS, JS      | [Ver repositorio](https://github.com/tu-usuario/stickers) |
-| **Portafolio Personal**   | HTML, CSS, JavaScript                   | [Ver demo](https://tu-usuario.github.io/portafolio) |
-| **Bot Automatizador**     | Python, GitHub Actions, Make/n8n        | [Ver repositorio](https://github.com/tu-usuario/bot-automator) |
----
 ---
 
 ## 🌱 Lo que estoy aprendiendo ahora
@@ -76,7 +67,15 @@
     <img src="https://komarev.com/ghpvc/?username=tu-usuario&color=blue" alt="Visitas al perfil"/>
   </a>
 </p>
+<!--
+## 🧩 Proyectos destacados
 
+| Proyecto                   | Tecnologías                            | Enlace                                      |
+|---------------------------|-----------------------------------------|---------------------------------------------|
+| **Gestor de Stickers**    | C#, .NET, SQL Server, HTML/CSS, JS      | [Ver repositorio](https://github.com/tu-usuario/stickers) |
+| **Portafolio Personal**   | HTML, CSS, JavaScript                   | [Ver demo](https://tu-usuario.github.io/portafolio) |
+| **Bot Automatizador**     | Python, GitHub Actions, Make/n8n        | [Ver repositorio](https://github.com/tu-usuario/bot-automator) |
+---
 <!--
 **Marmota-17/Marmota-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
