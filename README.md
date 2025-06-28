@@ -2,6 +2,60 @@
   <img src="banner.png" alt="Banner de César" width="800"/>
 </p>
 
+## 🇬🇧 English
+
+**Student of Programming and Systems Analysis** | Specialized in Web/Desktop Development and Technological Solutions
+
+📌 Aspiring software developer with hands-on experience in **C#**, **.NET Framework**, **SQL Server**, **HTML**, **CSS**, and **JavaScript**.
+Passionate about building functional projects, automating processes, and learning within communities.
+
+---
+
+## 🧭 About Me
+
+* 💻 I'm currently studying Systems Analysis and working on personal projects to strengthen my technical skills.
+* 📊 I work as a Sampling Inspector, which has developed my attention to detail, responsibility, and ability to perform under pressure.
+* 🚀 I'm transitioning into the software development field, focusing on building a portfolio that reflects my professional growth.
+* ⚙️ I'm exploring automation tools like **n8n** and **Make** to optimize repetitive tasks and workflows.
+* 🎯 My goal is to grow as a developer and continuously adapt to the evolving tech landscape.
+
+---
+
+## 🧪 Technologies & Tools
+
+<p align="center">
+  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white"/>
+  <img alt=".NET" src="https://img.shields.io/badge/.NET_Framework-512BD4?logo=.NET&logoColor=white"/>
+  <img alt="SQL Server" src="https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white"/>
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
+  <img alt="n8n" src="https://img.shields.io/badge/n8n-AE8CFF?logo=n8n&logoColor=white"/>
+  <img alt="Make" src="https://img.shields.io/badge/Make-A2A2F0?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB2aWV3Qm94P..."/>
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+* Solid foundations in object-oriented programming
+* Advanced SQL queries and database design
+* Web development design patterns
+* Task and workflow automation with **n8n**, **Make**, and **GitHub Actions**
+* Git version control best practices
+
+---
+
+## 📫 Contact
+
+Looking for someone committed to growth, learning, and delivering real value to projects?
+
+* ✉️ [cesar\_cfbb@hotmail.com](mailto:cesar_cfbb@hotmail.com)
+* 💼 [LinkedIn](https://www.linkedin.com/in/tu-perfil)
+* 🌐 Portfolio (under construction): [tu-usuario.github.io](https://tu-usuario.github.io)
+
+  
+## 🇪🇸 Español
 <p align="center">
   📌 Desarrollador en formación con experiencia práctica en <strong>C#</strong>, <strong>.NET Framework</strong>, <strong>SQL Server</strong>, <strong>HTML</strong>, <strong>CSS</strong> y <strong>JavaScript</strong>.
   <br>
