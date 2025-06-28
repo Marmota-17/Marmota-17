@@ -2,8 +2,6 @@
   <img src="banner.png" alt="Banner de César" width="800"/>
 </p>
 
-<h1 align="center">👋 ¡Hola! Soy César</h1>
-
 <p align="center">
   📌 Desarrollador en formación con experiencia práctica en <strong>C#</strong>, <strong>.NET Framework</strong>, <strong>SQL Server</strong>, <strong>HTML</strong>, <strong>CSS</strong> y <strong>JavaScript</strong>.
   <br>
