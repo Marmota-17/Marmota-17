@@ -4,7 +4,7 @@
 
 <h1 align="center">👋 ¡Hola, soy César!</h1>
 <p align="center">
-  Inspector muestrero de día, desarrollador de C#/.NET & motivador anime de noche.
+  Inspector muestrero de día, desarrollador de C#/.NET de noche.
 </p>
 
 <p align="center">
@@ -14,13 +14,6 @@
 
 <p align="center">
   🌱 Trabajando en mi portafolio con proyectos de dificultad creciente para el mercado remoto y chileno.
-</p>
-
-<p align="center">
-  🤝 También creo contenido faceless motivacional con temática de anime/manga para:
-  <a href="https://www.tiktok.com/@tu_usuario" target="_blank">TikTok</a> •
-  <a href="https://www.instagram.com/tu_usuario" target="_blank">Instagram</a> •
-  <a href="https://www.youtube.com/@tu_usuario" target="_blank">YouTube Shorts</a>
 </p>
 
 <p align="center">
