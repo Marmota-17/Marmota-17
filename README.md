@@ -34,7 +34,7 @@
   <img alt="n8n" src="https://img.shields.io/badge/n8n-AE8CFF?logo=n8n&logoColor=white"/>
   <img alt="Make" src="https://img.shields.io/badge/Make-A2A2F0?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB2aWV3Qm94P...", title="Make (Integromat)"/>
 </p>
----
+
 ---
 
 ## 🌱 Lo que estoy aprendiendo ahora
