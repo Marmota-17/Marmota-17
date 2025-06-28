@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="Logo de Marmota" width="120"/>
+  <img src="banner.png" alt="Banner de César" width="800"/>
 </p>
 
 <h1 align="center">👋 ¡Hola! Soy César</h1>
