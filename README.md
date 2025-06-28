@@ -59,7 +59,7 @@ Looking for someone committed to growth, learning, and delivering real value to 
   <img src="banner.png" alt="Banner de César" width="800"/>
 </p>
 
-## 🇪🇸 Español
+## 🇨🇱 Español
 <p align="center">
   📌 Desarrollador en formación con experiencia práctica en <strong>C#</strong>, <strong>.NET Framework</strong>, <strong>SQL Server</strong>, <strong>HTML</strong>, <strong>CSS</strong> y <strong>JavaScript</strong>.
   <br>
