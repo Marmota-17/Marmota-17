@@ -58,13 +58,13 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=dark" height="140"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=dark" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Marmota-17&show_icons=true&theme=dark" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marmota-17&layout=compact&theme=dark" height="140"/>
 </p>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=tu-usuario">
-    <img src="https://komarev.com/ghpvc/?username=tu-usuario&color=blue" alt="Visitas al perfil"/>
+  <a href="https://komarev.com/ghpvc/?username=Marmota-17">
+    <img src="https://komarev.com/ghpvc/?username=Marmota-17&color=blue" alt="Visitas al perfil"/>
   </a>
 </p>
 <!--
