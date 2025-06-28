@@ -52,7 +52,7 @@
 ¿Buscas alguien comprometido con crecer, aprender y aportar valor real en proyectos?
 
 - ✉️ cesar_cfbb@hotmail.com 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/tu-perfil](https://www.linkedin.com/in/cesar-fernando-bustos/))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/cesar-fernando-bustos/)
 - 🌐 Portafolio (en construcción): [tu-usuario.github.io](https://tu-usuario.github.io)
 
 ---
