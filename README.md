@@ -110,7 +110,7 @@ Looking for someone committed to growth, learning, and delivering real value to 
 
 - ✉️ cesar_cfbb@hotmail.com 
 - 💼 [LinkedIn](https://www.linkedin.com/in/cesar-fernando-bustos/)
-- 🌐 Portafolio (en construcción): [Portfolio](https://marmota-17.netlify.app/)
+- 🌐 Portafolio (en construcción): [Portfalio](https://marmota-17.netlify.app/)
 
 ---
 
