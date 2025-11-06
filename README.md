@@ -1,116 +1,78 @@
- <p align="center">
+<p align="center">
   <img src="banner2.png" alt="Banner de César" width="800"/>
 </p>
 
+# 👋 César Fernando Bustos Bustos
+
+---
+
 ## 🇬🇧 English
 
-**Junior Software Developer & Systems Analysis Student.** | Specialized in Web/Desktop Development and Technological Solutions
+**.NET Full Stack Developer in Training** | Systems Analysis Student  
+Passionate about turning code into real solutions.
 
-📌 Aspiring software developer with hands-on experience in **C#**, **.NET Framework**, **SQL Server**, **HTML**, **CSS**, and **JavaScript**.
-Passionate about building functional projects, automating processes, and learning within communities.
+### 🧭 About Me
+- 🎓 Systems Analysis student, building projects with **C#**, **.NET**, **SQL Server**, **HTML**, **CSS**, **JavaScript**.  
+- 🚀 Transitioning into software development, focused on creating a portfolio that reflects growth.  
+- ⚙️ Exploring automation tools like **n8n**, **Make**, and **GitHub Actions**.  
+- 🎯 Looking for an internship or junior role to learn and contribute from day one.  
 
----
+### 🧪 Tech Stack
+C# · .NET · SQL Server · HTML5 · CSS3 · JavaScript · Git · Visual Studio  
 
-## 🧭 About Me
+### 🎓 Certifications
+- Oracle Cloud Infrastructure 2025 – AI Foundations Associate  
+- Web Design with HTML5 + CSS  
+- Programming Fundamentals  
+- Innovation Tools  
+- Network Technician Career Path  
 
-* 💻 I'm currently studying Systems Analysis and working on personal projects to strengthen my technical skills.
-* 📊 I work as a Sampling Inspector, which has developed my attention to detail, responsibility, and ability to perform under pressure.
-* 🚀 I'm transitioning into the software development field, focusing on building a portfolio that reflects my professional growth.
-* ⚙️ I'm exploring automation tools like **n8n** and **Make** to optimize repetitive tasks and workflows.
-* 🎯 My goal is to grow as a developer and continuously adapt to the evolving tech landscape.
+### 🧩 Featured Projects
+| Project                  | Tech Stack                          | Link |
+|---------------------------|-------------------------------------|------|
+| **Client Manager**        | C#, .NET, SQL Server                | [Repo](https://github.com/Marmota-17/client-manager) |
+| **Personal Portfolio**    | HTML, CSS, JavaScript               | [Demo](https://marmota-17.netlify.app/) |
+| **Automation Bot**        | Python, GitHub Actions, Make/n8n    | [Repo](https://github.com/Marmota-17/automation-bot) |
 
----
-
-## 🧪 Technologies & Tools
-
-<p align="center">
-  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white"/>
-  <img alt=".NET" src="https://img.shields.io/badge/.NET_Framework-512BD4?logo=.NET&logoColor=white"/>
-  <img alt="SQL Server" src="https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white"/>
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
-  <img alt="n8n" src="https://img.shields.io/badge/n8n-AE8CFF?logo=n8n&logoColor=white"/>
-  <img alt="Make" src="https://img.shields.io/badge/Make-A2A2F0?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB2aWV3Qm94P..."/>
-</p>
-
----
-
-## 🌱 Currently Learning
-
-* Solid foundations in object-oriented programming
-* Advanced SQL queries and database design
-* Web development design patterns
-* Task and workflow automation with **n8n**, **Make**, and **GitHub Actions**
-* Git version control best practices
+### 📫 Contact
+- ✉️ [cesar_cfbb@hotmail.com](mailto:cesar_cfbb@hotmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/cesarfbustos-dev)  
+- 🌐 [Portfolio](https://marmota-17.netlify.app/)  
 
 ---
-
-## 📫 Contact
-
-Looking for someone committed to growth, learning, and delivering real value to projects?
-
-* ✉️ [cesar\_cfbb@hotmail.com](mailto:cesar_cfbb@hotmail.com)
-* 💼 [LinkedIn](https://www.linkedin.com/in/tu-perfil)
-* 🌐 Portfolio (under construction): [Portfolio](https://marmota-17.netlify.app/)
-* 
----
-
- <p align="center">
-  <img src="banner.png" alt="Banner de César" width="800"/>
-</p>
 
 ## 🇨🇱 Español
-<p align="center">
-  📌 Desarrollador en formación con experiencia práctica en <strong>C#</strong>, <strong>.NET Framework</strong>, <strong>SQL Server</strong>, <strong>HTML</strong>, <strong>CSS</strong> y <strong>JavaScript</strong>.
-  <br>
-  Apasionado por construir proyectos funcionales, automatizar procesos y aprender en comunidad.
-</p>
 
----
+**Desarrollador .NET Full Stack en formación** | Estudiante de Análisis de Sistemas  
+Apasionado por transformar código en soluciones reales.
 
-## 🧭 Acerca de mí
+### 🧭 Acerca de mí
+- 🎓 Estudiante de Análisis de Sistemas, desarrollando proyectos con **C#**, **.NET**, **SQL Server**, **HTML**, **CSS**, **JavaScript**.  
+- 🚀 En transición hacia el desarrollo de software, construyendo un portafolio que refleje mi crecimiento.  
+- ⚙️ Explorando herramientas de automatización como **n8n**, **Make** y **GitHub Actions**.  
+- 🎯 Buscando práctica profesional o puesto junior para aprender y aportar desde el primer día.  
 
-- 💻 Actualmente estudio Análisis de Sistemas y desarrollo proyectos personales para mejorar mis habilidades técnicas.
-- 📊 Trabajo como Inspector Muestrero, lo que me ha desarrollado habilidades de precisión, responsabilidad y trabajo bajo presión.
-- 🚀 Estoy en transición hacia el desarrollo de software, enfocado en consolidar un portafolio que refleje mi crecimiento profesional.
-- ⚙️ Me estoy introduciendo en el mundo de la automatización con herramientas como **n8n** y **Make**, para optimizar flujos y tareas repetitivas.
-- 🎯 Mi objetivo es crecer como programador y adaptarme al entorno tecnológico actual de forma constante y estratégica.
+### 🧪 Stack Tecnológico
+C# · .NET · SQL Server · HTML5 · CSS3 · JavaScript · Git · Visual Studio  
 
----
+### 🎓 Certificaciones
+- Oracle Cloud Infrastructure 2025 – AI Foundations Associate  
+- Diseño Web con HTML5 + CSS  
+- Fundamentos de Programación  
+- Herramientas para la Innovación  
+- Network Technician Career Path  
 
-## 🧪 Tecnologías y herramientas
+### 🧩 Proyectos Destacados
+| Proyecto                  | Tecnologías                         | Enlace |
+|---------------------------|-------------------------------------|--------|
+| **Gestor de Clientes**    | C#, .NET, SQL Server                | [Repositorio](https://github.com/Marmota-17/client-manager) |
+| **Portafolio Personal**   | HTML, CSS, JavaScript               | [Demo](https://marmota-17.netlify.app/) |
+| **Bot Automatizador**     | Python, GitHub Actions, Make/n8n    | [Repositorio](https://github.com/Marmota-17/automation-bot) |
 
-<p align="center">
-  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white"/>
-  <img alt=".NET" src="https://img.shields.io/badge/.NET_Framework-512BD4?logo=.NET&logoColor=white"/>
-  <img alt="SQL Server" src="https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white"/>
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
-  <img alt="n8n" src="https://img.shields.io/badge/n8n-AE8CFF?logo=n8n&logoColor=white"/>
-  <img alt="Make" src="https://img.shields.io/badge/Make-A2A2F0?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB2aWV3Qm94P...", title="Make (Integromat)"/>
-</p>
-
----
-
-## 🌱 Lo que estoy aprendiendo ahora
-
-- Fundamentos sólidos en programación orientada a objetos
-- Consultas avanzadas en SQL y diseño de bases de datos
-- Patrones de diseño en desarrollo web
-- Automatización de tareas con **n8n**, **Make** y **GitHub Actions**
-- Mejores prácticas de control de versiones con Git
-
----
-
-## 📫 Contacto
-
-¿Buscas alguien comprometido con crecer, aprender y aportar valor real en proyectos?
-
-- ✉️ cesar_cfbb@hotmail.com 
-- 💼 [LinkedIn](https://www.linkedin.com/in/cesar-fernando-bustos/)
-- 🌐 Portafolio (en construcción): [Portfalio](https://marmota-17.netlify.app/)
+### 📫 Contacto
+- ✉️ [cesar_cfbb@hotmail.com](mailto:cesar_cfbb@hotmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/cesarfbustos-dev)  
+- 🌐 [Portafolio](https://marmota-17.netlify.app/)  
 
 ---
 
@@ -118,32 +80,3 @@ Looking for someone committed to growth, learning, and delivering real value to 
   <img src="https://github-readme-stats.vercel.app/api?username=Marmota-17&show_icons=true&theme=dark" height="140"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marmota-17&layout=compact&theme=dark" height="140"/>
 </p>
-
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Marmota-17">
-    <img src="https://komarev.com/ghpvc/?username=Marmota-17&color=blue" alt="Visitas al perfil"/>
-  </a>
-</p>
-<!--
-## 🧩 Proyectos destacados
-
-| Proyecto                   | Tecnologías                            | Enlace                                      |
-|---------------------------|-----------------------------------------|---------------------------------------------|
-| **Gestor de Stickers**    | C#, .NET, SQL Server, HTML/CSS, JS      | [Ver repositorio](https://github.com/tu-usuario/stickers) |
-| **Portafolio Personal**   | HTML, CSS, JavaScript                   | [Ver demo](https://tu-usuario.github.io/portafolio) |
-| **Bot Automatizador**     | Python, GitHub Actions, Make/n8n        | [Ver repositorio](https://github.com/tu-usuario/bot-automator) |
----
-<!--
-**Marmota-17/Marmota-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
