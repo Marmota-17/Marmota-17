@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="banner2.png" alt="Banner de César" width="800"/>
-</p>
-
 # 👋 César Fernando Bustos Bustos
 
 ---
