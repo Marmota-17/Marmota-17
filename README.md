@@ -26,9 +26,7 @@ C# · .NET · SQL Server · HTML5 · CSS3 · JavaScript · Git · Visual Studio
 ### 🧩 Featured Projects
 | Project                  | Tech Stack                          | Link |
 |---------------------------|-------------------------------------|------|
-| **Client Manager**        | C#, .NET, SQL Server                | [Repo](https://github.com/Marmota-17/client-manager) |
 | **Personal Portfolio**    | HTML, CSS, JavaScript               | [Demo](https://marmota-17.netlify.app/) |
-| **Automation Bot**        | Python, GitHub Actions, Make/n8n    | [Repo](https://github.com/Marmota-17/automation-bot) |
 
 ### 📫 Contact
 - ✉️ [cesar_cfbb@hotmail.com](mailto:cesar_cfbb@hotmail.com)  
@@ -61,9 +59,7 @@ C# · .NET · SQL Server · HTML5 · CSS3 · JavaScript · Git · Visual Studio
 ### 🧩 Proyectos Destacados
 | Proyecto                  | Tecnologías                         | Enlace |
 |---------------------------|-------------------------------------|--------|
-| **Gestor de Clientes**    | C#, .NET, SQL Server                | [Repositorio](https://github.com/Marmota-17/client-manager) |
 | **Portafolio Personal**   | HTML, CSS, JavaScript               | [Demo](https://marmota-17.netlify.app/) |
-| **Bot Automatizador**     | Python, GitHub Actions, Make/n8n    | [Repositorio](https://github.com/Marmota-17/automation-bot) |
 
 ### 📫 Contacto
 - ✉️ [cesar_cfbb@hotmail.com](mailto:cesar_cfbb@hotmail.com)  
